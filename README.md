@@ -9,9 +9,9 @@ The two tasks evaluate different cognitive modalities of software engineering to
 ---
 
 # Survey links
-[Pre Survey] - https://forms.gle/JWEZ7tPKsHSF2wJG9
-[Post Task Survey] - https://forms.gle/uvZjTqDtASXkW2Sd7
-[Post Experiment Survey] - https://forms.gle/CWm4JjoinFKgYzTw5
+[Pre Survey] - https://forms.gle/JWEZ7tPKsHSF2wJG9  
+[Post Task Survey] - https://forms.gle/uvZjTqDtASXkW2Sd7  
+[Post Experiment Survey] - https://forms.gle/CWm4JjoinFKgYzTw5  
 
 ## Experimental Design & Metric Alignment
 
